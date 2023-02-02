@@ -1,2 +1,2 @@
-# ALPR with scikit
- An 'Automatic License Plate Recognition' model in python made using scikit-learn library.
+# ALPR with python
+ An 'Automatic License Plate Recognition' model in python.
